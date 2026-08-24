@@ -35,7 +35,7 @@ def barh(frame, labels, values, title, subtitle, fname, fmt="{:,.0f}"):
     ax.spines[["top","right", "bottom"]].set_visible(False)
     ax.spines["left"].set_color(GRID)
 
-    ax.set_title(title, loc="left", fontsize=13, color=INK, pad=18, weight="bold")
+    ax.set_title(title, loc="left", fontsize=13, color=INK, pad=30, weight="bold")
     ax.text(0, 1.02, subtitle, transform=ax.transAxes,
             fontsize = 9.5, color=MUTED, va="bottom")
 
@@ -62,7 +62,8 @@ def hist(series, title, subtitle, xlabel, fname, marker=None, marker_label=""):
     ax.grid(axis="y", color=GRID, alpha=0.5, linewidth=0.7)
     ax.set_axisbelow(True)
 
-    ax.set_title(title, loc="left", fontsize=13, color=INK, pad=18, weight="bold")
+    ax.set_title(title, loc="left", fontsize=13, color=INK, pad=30
+    , weight="bold")
     ax.text(0, 1.02, subtitle, transform=ax.transAxes,
             fontsize=9.5, color=MUTED, va="bottom")
 
