@@ -1,0 +1,201 @@
+SOC_TITLE,certified_positions,median_annual_wage,median_premium_pct
+Software Developers,4824,132916.6,1.7
+Data Scientists,950,115939.0,0.0
+Computer Programmers,888,91600.0,0.0
+Computer and Information Systems Managers,790,198972.0,2.7
+Business Intelligence Analysts,552,115939.0,0.1
+Information Technology Project Managers,509,150000.0,2.3
+Software Quality Assurance Analysts and Testers,454,108160.0,0.0
+Computer and Information Research Scientists,282,165350.0,14.1
+Industrial Engineers,273,133900.0,25.1
+Civil Engineers,252,115000.0,20.2
+Network and Computer Systems Administrators,251,106900.0,0.1
+Computer Systems Analysts,245,107000.0,0.1
+Financial and Investment Analysts,198,138600.0,8.7
+Accountants and Auditors,181,97450.0,10.3
+Database Administrators,168,112800.0,3.5
+Project Management Specialists,125,119400.0,2.0
+Web and Digital Interface Designers,118,91125.0,10.6
+Statisticians,115,122535.9,6.6
+Computer Systems Engineers/Architects,105,140836.8,0.0
+Information Security Analysts,103,147275.0,7.1
+Information Security Engineers,89,162300.0,24.3
+Computer Network Architects,83,163030.0,6.0
+Management Analysts,71,130811.0,4.8
+Supply Chain Managers,67,144160.0,3.9
+Database Architects,62,161449.0,0.7
+Market Research Analysts and Marketing Specialists,57,80000.0,4.9
+Computer Network Support Specialists,56,105000.0,50.8
+Financial Quantitative Analysts,55,116000.0,17.8
+Marketing Managers,51,153650.0,6.9
+Operations Research Analysts,51,123000.0,16.3
+Sales Engineers,49,149698.0,10.3
+Economists,48,150300.0,15.9
+Electrical Engineers,41,132754.3,9.4
+Financial Risk Specialists,38,117279.4,6.4
+Construction Managers,32,137738.0,0.0
+Mechanical Engineers,31,110500.0,9.0
+Biochemists and Biophysicists,30,83720.5,0.0
+Computer User Support Specialists,29,66400.0,0.7
+"Biological Scientists, All Other",27,83513.0,30.8
+Lawyers,26,137200.0,0.1
+Logisticians,23,101602.0,13.6
+Electrical and Electronic Engineering Technologists and Technicians,22,65187.0,0.0
+Regulatory Affairs Specialists,21,148545.0,45.0
+Physical Therapists,18,97869.6,1.3
+Quality Control Analysts,16,60008.0,14.3
+Cost Estimators,16,108451.0,4.9
+Human Resources Specialists,16,108215.0,9.4
+Transportation Engineers,14,91520.2,6.4
+"Electronics Engineers, Except Computer",13,102170.0,7.6
+"Elementary School Teachers, Except Special Education",12,77033.7,17.8
+Veterinarians,10,140000.0,35.7
+Purchasing Managers,10,81205.0,0.0
+"Compensation, Benefits, and Job Analysis Specialists",10,95900.0,37.4
+Web Developers,10,107661.0,0.0
+Architectural and Engineering Managers,9,186667.0,6.7
+Sociologists,9,75617.0,10.1
+Water/Wastewater Engineers,8,100599.2,18.5
+"Architects, Except Landscape and Naval",7,92000.0,3.4
+"Computer Occupations, All Other",7,118560.0,0.0
+Actuaries,6,138452.5,13.7
+"Software Developers, Non R&D",6,166785.4,32.1
+Credit Analysts,6,120747.5,0.4
+"Business Operations Specialists, All Other",6,89096.0,1.0
+Biostatisticians,6,123770.5,0.9
+Financial Managers,6,195120.0,17.7
+Medical and Clinical Laboratory Technologists,6,79216.8,48.7
+Clergy,5,75650.0,0.2
+Judicial Law Clerks,5,72966.4,1.3
+Graphic Designers,5,72800.0,0.9
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",5,99000.0,21.6
+Manufacturing Engineers,5,118138.0,12.1
+Mental Health Counselors,5,74000.0,1.3
+Social Science Research Assistants,5,95000.0,62.3
+Chemical Engineers,5,115031.3,14.5
+Sustainability Specialists,5,97864.6,11.0
+Urban and Regional Planners,5,92162.0,9.3
+Compliance Officers,5,82950.0,0.0
+Training and Development Specialists,5,66880.0,0.0
+"Engineering Teachers, Postsecondary",5,91000.0,22.9
+"Computer Science Teachers, Postsecondary",5,130000.0,133.8
+Instructional Coordinators,4,75368.8,0.0
+"Business Teachers, Postsecondary",4,181902.5,194.9
+"Health Specialties Teachers, Postsecondary",4,115779.2,32.6
+Industrial Production Managers,4,142494.5,10.7
+General and Operations Managers,4,160274.0,0.0
+Training and Development Managers,4,130416.0,0.0
+Survey Researchers,4,89951.5,7.2
+"Dentists, General",4,179649.5,9.3
+Materials Scientists,4,103210.0,0.9
+"Middle School Teachers, Except Special and Career/Technical Education",3,66150.0,16.4
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",3,108000.0,0.0
+Data Warehousing Specialists,3,155938.0,0.0
+Bioengineers and Biomedical Engineers,3,83428.8,5.5
+Environmental Engineers,3,120000.0,12.7
+Bioinformatics Scientists,3,90074.0,36.1
+"Engineers, All Other",3,153088.0,2.8
+Climate Change Policy Analysts,3,89000.0,18.3
+Health Informatics Specialists,3,85000.0,0.8
+Robotics Engineers,3,155250.0,17.3
+General Internal Medicine Physicians,3,400000.0,132.3
+Sales Managers,3,210638.0,2.4
+Soil and Plant Scientists,3,65291.0,0.0
+Medical and Health Services Managers,3,143165.5,0.3
+"Financial Specialists, All Other",3,99840.0,6.9
+Physicists,2,133200.0,4.2
+Social and Community Service Managers,2,86861.0,0.0
+Security Management Specialists,2,99964.5,0.0
+Molecular and Cellular Biologists,2,69965.5,18.1
+"Secondary School Teachers, Except Special and Career/Technical Education",2,90975.2,4.8
+Occupational Therapists,2,102346.6,19.1
+Personal Financial Advisors,2,77500.0,11.3
+Registered Nurses,2,88400.0,4.1
+Aerospace Engineers,2,161039.0,0.6
+Solar Energy Systems Engineers,2,171839.0,3.5
+"Surgeons, All Other",2,300000.0,34.0
+"Transportation, Storage, and Distribution Managers",2,194195.0,31.1
+Public Relations Managers,2,143013.5,13.3
+Public Relations Specialists,2,71041.0,5.9
+Search Marketing Strategists,2,99255.0,0.0
+"Special Education Teachers, Elementary School",2,73385.8,6.3
+Technical Writers,2,70000.0,1.6
+Statistical Assistants,2,86185.0,87.2
+"Psychology Teachers, Postsecondary",2,101843.0,41.1
+Biologists,2,92706.0,0.0
+Mechatronics Engineers,2,145922.4,15.7
+Chief Executives,2,259000.0,4.3
+Computer Hardware Engineers,2,146364.0,24.1
+Compliance Managers,2,193502.0,0.0
+Atmospheric and Space Scientists,2,77522.0,0.0
+"Art, Drama, and Music Teachers, Postsecondary",2,77530.3,3.3
+"Energy Engineers, Except Wind and Solar",2,110929.0,11.8
+Fire-Prevention and Protection Engineers,2,132500.0,3.3
+Food Scientists and Technologists,2,89807.6,1.7
+Forensic Science Technicians,2,75152.8,7.1
+Insurance Sales Agents,2,59550.4,0.0
+Landscape Architects,2,69862.5,3.2
+Clinical Data Managers,2,115939.0,0.0
+Materials Engineers,2,136597.8,9.6
+Paralegals and Legal Assistants,1,90000.0,4.2
+Environmental Restoration Planners,1,71510.0,0.0
+"Administrative Law Judges, Adjudicators, and Hearing Officers",1,165110.0,40.9
+"English Language and Literature Teachers, Postsecondary",1,67411.0,28.7
+"Software Developers, R&D",1,95481.0,9.1
+Acupuncturists,1,76960.0,0.3
+Anesthesiologists,1,239200.0,0.0
+Solar Energy Installation Managers,1,101171.0,0.0
+Coaches and Scouts,1,90000.0,23.9
+"Education and Childcare Administrators, Preschool and Daycare",1,65000.0,9.5
+"Education Teachers, Postsecondary",1,62232.0,46.8
+Statistician,1,114999.9,0.1
+"Education Administrators, Postsecondary",1,85000.0,5.6
+Blockchain Engineers,1,163363.2,0.0
+Community Health Workers,1,54246.0,0.0
+"Dentists, All Other Specialists",1,196060.8,0.0
+"Community and Social Service Specialists, All Other",1,54080.0,1.0
+"Teachers and Instructors, All Other",1,70000.0,37.0
+Natural Sciences Managers,1,210000.0,6.7
+Nanosystems Engineers,1,126152.0,0.0
+Data Scientist,1,121200.0,4.5
+Conservation Scientists,1,52915.0,0.0
+Transportation Planners,1,92830.0,0.0
+"Mathematical Science Occupations, All Other",1,130000.0,1.9
+"Mining and Geological Engineers, Including Mining Safety Engineers",1,120000.0,8.9
+"Computer Systems Analysts, Non R&D",1,118726.0,0.0
+Video Game Designers,1,91125.0,30.0
+Computer Systems Analyst,1,106912.0,0.0
+Web Administrators,1,139443.0,17.9
+Bioinformatics Technicians,1,92718.0,24.2
+Environmental Economists,1,159994.0,0.0
+"Social Work Teachers, Postsecondary",1,117916.0,103.1
+"Philosophy and Religion Teachers, Postsecondary",1,68943.0,0.0
+"Social Scientists and Related Workers, All Other",1,74124.2,10.5
+Civil Engineer,1,76000.0,3.4
+"Physicians, All Other",1,550000.0,230.3
+"Physicians, Pathologists",1,300000.0,60.7
+"Biological Science Teachers, Postsecondary",1,90893.0,66.5
+Political Scientists,1,153462.0,0.0
+"Postsecondary Teachers, All Other",1,103943.0,0.0
+"Preschool Teachers, Except Special Education",1,35381.0,0.0
+Logistics Engineers,1,86061.0,3.6
+"Legal Support Workers, All Other",1,74922.0,0.0
+Orthodontists,1,416000.0,73.9
+"Kindergarten Teachers, Except Special Education",1,55930.0,0.0
+Cardiologists,1,450000.0,95.9
+Architectural and Civil Drafters,1,80184.0,0.0
+Human Resources Managers,1,149094.0,0.0
+Quality Control Systems Managers,1,144570.0,0.0
+Human Factors Engineers and Ergonomists,1,82451.0,0.0
+Hospitalists,1,260000.0,24.8
+Geographers,1,87420.0,2.3
+"Foreign Language and Literature Teachers, Postsecondary",1,83766.0,53.4
+Occupational Health and Safety Specialists,1,85176.0,25.0
+"Sales and Related Workers, All Other",1,89980.8,2.8
+Obstetricians and Gynecologists,1,280000.0,142.1
+"Mathematical Science Teachers, Postsecondary",1,125500.0,138.7
+Facilities Managers,1,69763.0,0.0
+Security Managers,1,93017.6,33.3
+Self-Enrichment Teachers,1,65874.0,0.0
+Epidemiologists,1,88587.0,0.0
+"Computer Hardware Engineers, R&D",1,75000.0,2.9
