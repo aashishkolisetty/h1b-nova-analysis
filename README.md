@@ -126,7 +126,7 @@ above that floor.
 ## Reproducing this
 
 ```bash
-git clone https://github.com/YOURUSERNAME/h1b-nova-analysis.git
+git clone https://github.com/aashishkolisetty/h1b-nova-analysis.git
 cd h1b-nova-analysis
 python3 -m venv .venv && source .venv/bin/activate
 pip install pandas openpyxl pyarrow matplotlib
