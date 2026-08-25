@@ -98,8 +98,7 @@ The map is deliberate rather than fuzzy. Automatic similarity matching merges ge
 
 **Demand is highly concentrated in a single employer.** 2,032 entities filed applications, but many large employers file under multiple legal names. After resolving entities to parent companies, Amazon accounts for 5,019 certified positions, **38.8%** of the region's total, filed across 12 separate legal entities. Top-10 concentration rises from **60.9%** by filing entity to 64.3% by parent company. This is only visible after entity resolution. Ranked by raw `EMPLOYER_NAME`, Amazon's twelve filings scatter across the list and the largest single row shows 2,940 positions, understating the company's real share by nearly half.
 
-![H-1B demand by parent company]
-(outputs/top_parent_employers.png)
+![H-1B demand by parent company](outputs/top_parent_employers.png)
 
 
 
@@ -124,7 +123,7 @@ above that floor.
 
 - **LCAs are intent, not outcomes.** A certified LCA is not an approved H-1B.
   Employers routinely file for more positions than they fill, so counts run high.
-- **Entity resolution is partial.** Only the multi-entity filers listed in 'PARENT_RULES' are consolidated. Smaller companies filing under several namees remain split, so the concentration figures reported here are a floor rather than a ceiling.
+- **Entity resolution is partial.** Only the multi-entity filers listed in `PARENT_RULES` are consolidated. Smaller companies filing under several names remain split, so the concentration figures reported here are a floor rather than a ceiling.
 - **Primary worksite only.** This analysis uses the worksite recorded on the main
   disclosure file. Employers headquartered elsewhere with additional Northern
   Virginia worksites listed in `LCA_Worksites` are not captured. Joining that
@@ -149,6 +148,7 @@ python src/step2_profile.py    # profile the columns before filtering
 python src/step3_filter.py     # apply visa, status and geography filters
 python src/step4_wages.py      # annualize and validate wages
 python src/step5_analyze.py    # aggregate, chart, and write findings
+python src/step6_entities.py   # resolve entities to parent companies
 ```
 
 The raw data is not committed. The source file is several hundred megabytes and
@@ -160,7 +160,7 @@ is available directly from DOL.
 data/raw/          source files, not committed
 data/processed/    cached intermediates, not committed
 outputs/           charts, CSVs, and summary.md
-src/               the five pipeline steps
+src/               the six pipeline steps
 ```
 
 ## Author
