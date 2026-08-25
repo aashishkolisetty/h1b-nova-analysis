@@ -98,6 +98,11 @@ The map is deliberate rather than fuzzy. Automatic similarity matching merges ge
 
 **Demand is highly concentrated in a single employer.** 2,032 entities filed applications, but many large employers file under multiple legal names. After resolving entities to parent companies, Amazon accounts for 5,019 certified positions, **38.8%** of the region's total, filed across 12 separate legal entities. Top-10 concentration rises from **60.9%** by filing entity to 64.3% by parent company. This is only visible after entity resolution. Ranked by raw `EMPLOYER_NAME`, Amazon's twelve filings scatter across the list and the largest single row shows 2,940 positions, understating the company's real share by nearly half.
 
+![H-1B demand by parent company]
+(outputs/top_parent_employers.png)
+
+
+
 **The occupation mix is narrow.** Across 200 distinct SOC occupations, Software
 Developers alone represent **37.3%** of certified positions.
 
